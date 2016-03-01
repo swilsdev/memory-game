@@ -1,0 +1,14 @@
+{
+  "name": "memory-game",
+  "version": "0.0.1",
+  "description": "Base template for new projects",
+  "main": "server.js",
+  "author": "Scott Wilson",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "gulp-livereload": "^3.8.1",
+    "gulp-nodemon": "^2.0.6"
+  }
+}

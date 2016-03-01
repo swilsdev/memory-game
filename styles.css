@@ -1,0 +1,68 @@
+* {
+  margin: 0px;
+}
+body {
+  background: #EFE;
+  text-align: center;
+}
+h1 {
+  font-size: 48px;
+  margin: 15px 0px 15px 0px;
+}
+#button-checkbox {
+  width: 13px;
+  height: 13px;
+}
+#button-start-restart {
+  position: absolute;
+  top: 237px;
+  left: 146px;
+  width: 55px;
+  height: 30px;
+  color: white;
+  background: #111;
+  border: 1px solid #333;
+  border-radius: 10px;
+  outline: none;
+}
+#container {
+  position: relative;
+  width: 400px;
+  height: 400px;
+  margin: auto;
+}
+#display {
+  position: absolute;
+  top: 175px;
+  left: 118px;
+  width: 165px;
+  height: 45px;
+  background: #171717;
+  color: white;
+  font-size: 36px;
+}
+#game {
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  margin: auto;
+  pointer-events: none;
+}
+#steps {
+  position: absolute;
+  color: Orange;
+  top: 115px;
+  left: 190px;
+  width: 30px;
+  height: 40px;
+  background: black;
+  font-size: 38px;
+  border: none;
+}
+#strict {
+  position: absolute;
+  top: 235px;
+  left: 224px;
+  color: white;
+  width: 45px;
+}
